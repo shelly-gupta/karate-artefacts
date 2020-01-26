@@ -1,0 +1,8 @@
+
+
+basicAuth:
+  users:
+    test:
+      user: test
+      password: password
+      role: userrole
